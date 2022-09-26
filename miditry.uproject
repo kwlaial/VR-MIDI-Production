@@ -13,7 +13,11 @@
 			"Enabled": true
 		},
 		{
+<<<<<<< HEAD
 			"Name": "Metasound",
+=======
+			"Name": "SoundUtilities",
+>>>>>>> 7587e8ee40aab54c8d9a92aecfb4e242a0c52b68
 			"Enabled": true
 		}
 	]

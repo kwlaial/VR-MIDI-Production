@@ -1061,3 +1061,1552 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.26-00.13.56:593][335]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controller70FC6A00481A1F891B9901A2571E7E77.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
 [2022.09.26-00.13.56:616][335]AssetCheck: New page: Asset Save: midi_keyboard_controller
 [2022.09.26-00.13.56:616][335]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.15.07:035][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.09.26-00.15.07:067][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7
+[2022.09.26-00.15.07:068][517]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Minimal_Default_Auto7D689C2AC469A2BC475391694493E80FB.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2022.09.26-00.15.07:076][517]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.086
+[2022.09.26-00.15.07:076][517]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2022.09.26-00.15.07:077][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/midikeyboard/blueprints/NewMetaSoundSource] ([1] browsable assets)...
+[2022.09.26-00.15.07:077][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/midikeyboard/blueprints/NewMetaSoundSource]
+[2022.09.26-00.15.07:120][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/midikeyboard/blueprints/NewMetaSoundSource_Auto7
+[2022.09.26-00.15.07:122][517]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/NewMetaSoundSource_Auto78204CD194A3151A88EF89AA627F2CF55.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Autosaves/Game/midikeyboard/blueprints/NewMetaSoundSource_Auto7.uasset'
+[2022.09.26-00.15.07:123][517]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.09.26-00.16.54:090][887]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.26-00.18.41:188][151]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.26-00.24.02:584][ 35]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.24.02:653][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.09.26-00.24.03:981][104]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.24.03:982][104]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controller5CAFF02E417FB9599478E49A8486DE51.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.24.03:999][104]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.24.03:999][104]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.27.20:275][761]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.27.20:345][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.09.26-00.27.21:885][840]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.27.21:886][840]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controllerCA8A4CAF44079D4074F93A85C3B00D94.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.27.21:901][840]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.27.21:901][840]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.27.27:305][155]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.27.27:312][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.27.27:313][155]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:27:27 PM)
+[2022.09.26-00.27.27:313][155]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.27.27:321][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008370s)
+[2022.09.26-00.27.27:321][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008515s)
+[2022.09.26-00.27.27:321][155]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.27.27:323][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.27.27:323][155]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.27.27:323][155]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2022.09.26-00.27.27:366][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.09.26-00.27.27:369][155]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.27.27:369][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.27.27:369][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.27.27:370][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.27.27:370][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.27.27:370][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.27.27:372][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.27.27:403][155]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.27.27:404][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.27.27:404][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.27.27:404][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.27.27:409][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.26-00.27.27:409][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.09.26-00.27.27:411][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.26-00.27.27:411][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.26-00.27.27:411][155]LogInit: FAudioDevice initialized.
+[2022.09.26-00.27.27:411][155]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2022.09.26-00.27.27:434][155]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.27.27:438][155]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.27.27
+[2022.09.26-00.27.27:438][155]LogWorld: Bringing up level for play took: 0.003947
+[2022.09.26-00.27.27:440][155]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.09.26-00.27.27:446][155]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.27.27:446][155]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.27.27:447][155]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.27.27:447][155]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.27.27:447][155]PIE: Server logged in
+[2022.09.26-00.27.27:448][155]PIE: Play in editor total start time 0.135 seconds.
+[2022.09.26-00.27.27:449][155]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_2
+[2022.09.26-00.27.28:636][220]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,185: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.27.29:468][270]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,011: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.27.32:330][441]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,868: Ch1 - 9 /ID: 59, Vel: 21
+[2022.09.26-00.27.32:747][466]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,295: Ch1 - 9 /ID: 62, Vel: 31
+[2022.09.26-00.27.33:030][483]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,577: Ch1 - 9 /ID: 62, Vel: 40
+[2022.09.26-00.27.33:264][497]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,801: Ch1 - 9 /ID: 62, Vel: 50
+[2022.09.26-00.27.33:747][526]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,283: Ch1 - 9 /ID: 64, Vel: 46
+[2022.09.26-00.27.34:547][574]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,094: Ch1 - 9 /ID: 71, Vel: 8
+[2022.09.26-00.27.37:979][773]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,524: Ch1 - 9 /ID: 59, Vel: 17
+[2022.09.26-00.27.38:629][812]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 11,167: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.41:771][996]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 14,319: Ch1 - 9 /ID: 59, Vel: 15
+[2022.09.26-00.27.44:390][153]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,921: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.46:387][272]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 18,935: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.48:754][414]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 21,295: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.53:240][673]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,775: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.54:611][753]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,150: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.27.57:797][942]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 30,336: Ch1 - 9 /ID: 59, Vel: 45
+[2022.09.26-00.28.01:449][153]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 33,992: Ch1 - 9 /ID: 59, Vel: 32
+[2022.09.26-00.28.20:068][254]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 52,610: Ch1 - 9 /ID: 59, Vel: 41
+[2022.09.26-00.28.30:351][866]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 62,888: Ch1 - 9 /ID: 59, Vel: 38
+[2022.09.26-00.28.41:492][526]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 74,032: Ch1 - 9 /ID: 59, Vel: 25
+[2022.09.26-00.28.41:842][547]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 74,388: Ch1 - 9 /ID: 59, Vel: 41
+[2022.09.26-00.28.48:644][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.28.48:644][930]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.28.48:644][930]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.28.48:645][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.28.48:658][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.28.48:663][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.28.48:700][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.28.48:700][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.26-00.28.48:703][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.26-00.28.48:707][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.28.48:712][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.09.26-00.28.48:739][931]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.09.26-00.28.52:416][143]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.28.52:495][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.09.26-00.28.53:419][185]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.28.53:419][185]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controller62F320A74060A072E785A1B3529AEA92.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.28.53:437][185]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.28.53:437][185]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.28.56:101][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.28.56:108][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.28.56:108][340]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:28:56 PM)
+[2022.09.26-00.28.56:108][340]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.28.56:115][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007601s)
+[2022.09.26-00.28.56:116][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007711s)
+[2022.09.26-00.28.56:116][340]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.28.56:116][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.28.56:116][340]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.28.56:117][340]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2022.09.26-00.28.56:155][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.09.26-00.28.56:156][340]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.28.56:156][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.28.56:156][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.28.56:157][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.28.56:157][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.28.56:157][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.28.56:159][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.28.56:176][340]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.28.56:176][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.28.56:177][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.28.56:177][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.28.56:180][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.26-00.28.56:180][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.09.26-00.28.56:182][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.26-00.28.56:182][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.26-00.28.56:182][340]LogInit: FAudioDevice initialized.
+[2022.09.26-00.28.56:182][340]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2022.09.26-00.28.56:190][340]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.28.56:192][340]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.28.56
+[2022.09.26-00.28.56:193][340]LogWorld: Bringing up level for play took: 0.002398
+[2022.09.26-00.28.56:195][340]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.09.26-00.28.56:196][340]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.28.56:196][340]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.28.56:196][340]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.28.56:196][340]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.28.56:196][340]PIE: Server logged in
+[2022.09.26-00.28.56:197][340]PIE: Play in editor total start time 0.09 seconds.
+[2022.09.26-00.28.56:198][340]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_3
+[2022.09.26-00.28.56:848][374]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 644: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.28.57:498][413]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,292: Ch1 - 9 /ID: 59, Vel: 48
+[2022.09.26-00.28.57:815][432]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,612: Ch1 - 9 /ID: 59, Vel: 27
+[2022.09.26-00.28.58:265][459]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,061: Ch1 - 9 /ID: 61, Vel: 8
+[2022.09.26-00.28.58:649][482]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,441: Ch1 - 9 /ID: 59, Vel: 25
+[2022.09.26-00.28.59:366][525]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,161: Ch1 - 9 /ID: 61, Vel: 8
+[2022.09.26-00.29.00:736][603]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,533: Ch1 - 9 /ID: 59, Vel: 35
+[2022.09.26-00.29.01:019][620]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,816: Ch1 - 9 /ID: 61, Vel: 8
+[2022.09.26-00.29.01:286][636]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,076: Ch1 - 9 /ID: 59, Vel: 36
+[2022.09.26-00.29.12:564][296]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,363: Ch1 - 9 /ID: 59, Vel: 45
+[2022.09.26-00.29.12:931][318]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,721: Ch1 - 9 /ID: 59, Vel: 42
+[2022.09.26-00.29.13:181][333]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,966: Ch1 - 9 /ID: 61, Vel: 8
+[2022.09.26-00.29.13:380][345]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 17,167: Ch1 - 9 /ID: 59, Vel: 48
+[2022.09.26-00.29.16:335][519]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 20,122: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.29.22:734][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.29.22:734][891]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.29.22:735][891]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.29.22:735][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.29.22:747][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.29.22:755][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.29.22:794][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.29.22:795][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.26-00.29.22:796][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.26-00.29.22:806][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.09.26-00.29.22:828][892]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.09.26-00.29.58:131][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.09.26-00.29.58:153][972]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8
+[2022.09.26-00.29.58:154][972]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Minimal_Default_Auto89581E54D48A4F3D8D79B8CABD031879B.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2022.09.26-00.29.58:162][972]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.069
+[2022.09.26-00.29.58:162][972]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.09.26-00.29.58:162][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/midikeyboard/blueprints/NewMetaSoundSource] ([1] browsable assets)...
+[2022.09.26-00.29.58:162][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/midikeyboard/blueprints/NewMetaSoundSource]
+[2022.09.26-00.29.58:276][972]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/midikeyboard/blueprints/NewMetaSoundSource_Auto8
+[2022.09.26-00.29.58:277][972]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/NewMetaSoundSource_Auto8EE33DB994F774752A073519723D43562.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Autosaves/Game/midikeyboard/blueprints/NewMetaSoundSource_Auto8.uasset'
+[2022.09.26-00.29.58:278][972]LogFileHelpers: Auto-saving content packages took 0.116
+[2022.09.26-00.38.22:534][180]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.38.22:605][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.09.26-00.38.23:515][223]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.38.23:516][223]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controllerEE888A8341420A1D24EC8E84364E95F1.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.38.23:534][223]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.38.23:534][223]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.38.24:767][291]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.38.24:773][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.38.24:773][291]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:38:24 PM)
+[2022.09.26-00.38.24:773][291]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.38.24:779][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005908s)
+[2022.09.26-00.38.24:779][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006017s)
+[2022.09.26-00.38.24:779][291]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.38.24:779][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.38.24:780][291]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.38.24:780][291]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.09.26-00.38.24:815][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.09.26-00.38.24:816][291]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.38.24:816][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.38.24:816][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.38.24:817][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.38.24:817][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.38.24:817][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.38.24:819][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.38.24:836][291]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.38.24:836][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.38.24:836][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.38.24:836][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.38.24:837][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.09.26-00.38.24:837][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.09.26-00.38.24:838][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.09.26-00.38.24:838][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.09.26-00.38.24:838][291]LogInit: FAudioDevice initialized.
+[2022.09.26-00.38.24:838][291]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2022.09.26-00.38.24:887][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.38.24:888][291]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.38.24:891][291]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.38.24
+[2022.09.26-00.38.24:891][291]LogWorld: Bringing up level for play took: 0.003039
+[2022.09.26-00.38.24:893][291]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.09.26-00.38.24:895][291]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.38.24:895][291]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.38.24:895][291]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.38.24:895][291]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.38.24:901][291]PIE: Server logged in
+[2022.09.26-00.38.24:905][291]PIE: Play in editor total start time 0.132 seconds.
+[2022.09.26-00.38.24:906][291]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_4
+[2022.09.26-00.38.24:930][291]LogViewport: Scene viewport resized to 1284x740, mode Windowed.
+[2022.09.26-00.38.27:709][443]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,789: Ch1 - 9 /ID: 57, Vel: 45
+[2022.09.26-00.38.29:275][534]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,363: Ch1 - 9 /ID: 60, Vel: 46
+[2022.09.26-00.38.29:650][556]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,737: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.30:071][581]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,159: Ch1 - 9 /ID: 58, Vel: 40
+[2022.09.26-00.38.30:088][582]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,168: Ch1 - 9 /ID: 66, Vel: 8
+[2022.09.26-00.38.30:088][582]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,182: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.30:138][585]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,227: Ch1 - 9 /ID: 65, Vel: 58
+[2022.09.26-00.38.30:865][627]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,944: Ch1 - 9 /ID: 65, Vel: 45
+[2022.09.26-00.38.31:303][653]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,381: Ch1 - 9 /ID: 68, Vel: 8
+[2022.09.26-00.38.31:734][678]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,816: Ch1 - 9 /ID: 60, Vel: 30
+[2022.09.26-00.38.31:753][679]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,828: Ch1 - 9 /ID: 54, Vel: 8
+[2022.09.26-00.38.31:805][682]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,887: Ch1 - 9 /ID: 67, Vel: 51
+[2022.09.26-00.38.32:295][711]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,383: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.32:571][727]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,654: Ch1 - 9 /ID: 68, Vel: 28
+[2022.09.26-00.38.32:571][727]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,658: Ch1 - 9 /ID: 58, Vel: 23
+[2022.09.26-00.38.32:975][751]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,052: Ch1 - 9 /ID: 70, Vel: 26
+[2022.09.26-00.38.33:210][765]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,292: Ch1 - 9 /ID: 71, Vel: 8
+[2022.09.26-00.38.33:567][786]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,649: Ch1 - 9 /ID: 68, Vel: 8
+[2022.09.26-00.38.34:247][826]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,337: Ch1 - 9 /ID: 68, Vel: 19
+[2022.09.26-00.38.34:263][827]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,349: Ch1 - 9 /ID: 58, Vel: 41
+[2022.09.26-00.38.34:669][851]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,755: Ch1 - 9 /ID: 70, Vel: 40
+[2022.09.26-00.38.35:071][875]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,162: Ch1 - 9 /ID: 68, Vel: 21
+[2022.09.26-00.38.35:829][920]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,911: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.35:829][920]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,922: Ch1 - 9 /ID: 58, Vel: 8
+[2022.09.26-00.38.35:845][921]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,935: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.39:983][163]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,072: Ch1 - 9 /ID: 63, Vel: 18
+[2022.09.26-00.38.40:000][164]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,078: Ch1 - 9 /ID: 58, Vel: 25
+[2022.09.26-00.38.40:000][164]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,090: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.41:304][241]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,395: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.41:337][243]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,415: Ch1 - 9 /ID: 51, Vel: 25
+[2022.09.26-00.38.41:337][243]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,420: Ch1 - 9 /ID: 58, Vel: 32
+[2022.09.26-00.38.41:337][243]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,427: Ch1 - 9 /ID: 67, Vel: 43
+[2022.09.26-00.38.44:018][401]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,104: Ch1 - 9 /ID: 58, Vel: 18
+[2022.09.26-00.38.44:018][401]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,109: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.44:035][402]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,123: Ch1 - 9 /ID: 51, Vel: 19
+[2022.09.26-00.38.44:052][403]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,139: Ch1 - 9 /ID: 67, Vel: 52
+[2022.09.26-00.38.46:231][529]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 21,309: Ch1 - 9 /ID: 65, Vel: 26
+[2022.09.26-00.38.46:231][529]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 21,312: Ch1 - 9 /ID: 58, Vel: 8
+[2022.09.26-00.38.46:264][531]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 21,350: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.46:702][557]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 21,796: Ch1 - 9 /ID: 67, Vel: 20
+[2022.09.26-00.38.47:140][583]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 22,221: Ch1 - 9 /ID: 65, Vel: 31
+[2022.09.26-00.38.47:970][632]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 23,054: Ch1 - 9 /ID: 63, Vel: 33
+[2022.09.26-00.38.48:004][634]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 23,082: Ch1 - 9 /ID: 57, Vel: 9
+[2022.09.26-00.38.48:004][634]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 23,093: Ch1 - 9 /ID: 54, Vel: 8
+[2022.09.26-00.38.48:872][685]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 23,962: Ch1 - 9 /ID: 58, Vel: 8
+[2022.09.26-00.38.48:889][686]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 23,969: Ch1 - 9 /ID: 60, Vel: 27
+[2022.09.26-00.38.49:683][733]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 24,761: Ch1 - 9 /ID: 60, Vel: 12
+[2022.09.26-00.38.50:024][753]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,101: Ch1 - 9 /ID: 63, Vel: 42
+[2022.09.26-00.38.50:451][778]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,542: Ch1 - 9 /ID: 58, Vel: 8
+[2022.09.26-00.38.50:468][779]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,555: Ch1 - 9 /ID: 65, Vel: 46
+[2022.09.26-00.38.50:501][781]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,583: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.51:162][820]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 26,240: Ch1 - 9 /ID: 65, Vel: 52
+[2022.09.26-00.38.51:535][842]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 26,625: Ch1 - 9 /ID: 68, Vel: 8
+[2022.09.26-00.38.51:992][869]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,071: Ch1 - 9 /ID: 67, Vel: 31
+[2022.09.26-00.38.51:992][869]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,078: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.38.52:027][871]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,105: Ch1 - 9 /ID: 54, Vel: 8
+[2022.09.26-00.38.52:484][898]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,564: Ch1 - 9 /ID: 63, Vel: 18
+[2022.09.26-00.38.52:718][912]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,801: Ch1 - 9 /ID: 68, Vel: 44
+[2022.09.26-00.38.52:736][913]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,816: Ch1 - 9 /ID: 58, Vel: 22
+[2022.09.26-00.38.53:091][934]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 28,181: Ch1 - 9 /ID: 70, Vel: 13
+[2022.09.26-00.38.53:533][960]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 28,623: Ch1 - 9 /ID: 72, Vel: 61
+[2022.09.26-00.38.54:160][997]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 29,240: Ch1 - 9 /ID: 72, Vel: 58
+[2022.09.26-00.38.54:462][ 15]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 29,545: Ch1 - 9 /ID: 70, Vel: 8
+[2022.09.26-00.38.54:837][ 37]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 29,921: Ch1 - 9 /ID: 68, Vel: 14
+[2022.09.26-00.38.55:387][ 70]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 30,473: Ch1 - 9 /ID: 70, Vel: 8
+[2022.09.26-00.38.56:043][109]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 31,124: Ch1 - 9 /ID: 58, Vel: 8
+[2022.09.26-00.38.56:094][112]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 31,173: Ch1 - 9 /ID: 51, Vel: 8
+[2022.09.26-00.38.56:094][112]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 31,182: Ch1 - 9 /ID: 63, Vel: 8
+[2022.09.26-00.38.56:514][137]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 31,594: Ch10 - 9 /ID: 44, Vel: 8
+[2022.09.26-00.38.59:274][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.38.59:274][296]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.38.59:275][296]LogSlate: Window 'miditry Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.26-00.38.59:286][296]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.38.59:286][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.38.59:301][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.38.59:308][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.38.59:352][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.26-00.38.59:353][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.26-00.38.59:365][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.26-00.38.59:388][297]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.09.26-00.39.16:063][267]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.39.16:070][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.39.16:070][267]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:39:16 PM)
+[2022.09.26-00.39.16:070][267]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.39.16:079][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008246s)
+[2022.09.26-00.39.16:079][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008353s)
+[2022.09.26-00.39.16:079][267]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.39.16:079][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.39.16:079][267]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.39.16:079][267]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2022.09.26-00.39.16:123][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.09.26-00.39.16:124][267]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.39.16:124][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.39.16:124][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.39.16:125][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.39.16:125][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.39.16:125][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.39.16:127][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.39.16:149][267]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.39.16:149][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.39.16:149][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.39.16:149][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.39.16:151][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.09.26-00.39.16:151][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.09.26-00.39.16:152][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.09.26-00.39.16:152][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.09.26-00.39.16:152][267]LogInit: FAudioDevice initialized.
+[2022.09.26-00.39.16:152][267]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2022.09.26-00.39.16:163][267]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.39.16:167][267]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.39.16
+[2022.09.26-00.39.16:167][267]LogWorld: Bringing up level for play took: 0.003579
+[2022.09.26-00.39.16:169][267]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.09.26-00.39.16:171][267]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.39.16:171][267]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.39.16:171][267]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.39.16:171][267]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.39.16:171][267]PIE: Server logged in
+[2022.09.26-00.39.16:172][267]PIE: Play in editor total start time 0.103 seconds.
+[2022.09.26-00.39.16:174][267]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_5
+[2022.09.26-00.39.16:902][303]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 720: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.17:135][317]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 957: Ch1 - 9 /ID: 59, Vel: 33
+[2022.09.26-00.39.17:385][332]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,207: Ch1 - 9 /ID: 59, Vel: 22
+[2022.09.26-00.39.19:629][459]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,443: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.19:870][472]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,688: Ch1 - 9 /ID: 59, Vel: 23
+[2022.09.26-00.39.20:098][484]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,906: Ch1 - 9 /ID: 59, Vel: 33
+[2022.09.26-00.39.20:785][524]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,609: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.21:546][566]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,369: Ch1 - 9 /ID: 59, Vel: 31
+[2022.09.26-00.39.21:801][581]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,618: Ch1 - 9 /ID: 59, Vel: 45
+[2022.09.26-00.39.22:041][595]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,859: Ch1 - 9 /ID: 59, Vel: 41
+[2022.09.26-00.39.26:457][842]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,269: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.26:677][855]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,499: Ch1 - 9 /ID: 59, Vel: 29
+[2022.09.26-00.39.26:944][871]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,761: Ch1 - 9 /ID: 59, Vel: 17
+[2022.09.26-00.39.31:154][114]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 14,970: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.31:487][134]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,305: Ch1 - 9 /ID: 59, Vel: 39
+[2022.09.26-00.39.31:820][154]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,634: Ch1 - 9 /ID: 59, Vel: 36
+[2022.09.26-00.39.34:626][316]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 18,442: Ch1 - 9 /ID: 59, Vel: 46
+[2022.09.26-00.39.34:946][335]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 18,766: Ch1 - 9 /ID: 59, Vel: 32
+[2022.09.26-00.39.35:232][352]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,043: Ch1 - 9 /ID: 59, Vel: 20
+[2022.09.26-00.39.35:549][371]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 19,368: Ch1 - 9 /ID: 59, Vel: 9
+[2022.09.26-00.39.41:187][700]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,008: Ch1 - 9 /ID: 59, Vel: 29
+[2022.09.26-00.39.41:484][715]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 25,300: Ch1 - 9 /ID: 59, Vel: 27
+[2022.09.26-00.39.44:863][915]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 28,673: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.39.45:213][936]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 29,030: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.40.01:433][889]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 45,255: Ch1 - 9 /ID: 59, Vel: 51
+[2022.09.26-00.40.01:705][904]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 45,531: Ch1 - 9 /ID: 59, Vel: 38
+[2022.09.26-00.40.04:077][ 44]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 47,894: Ch1 - 9 /ID: 59, Vel: 28
+[2022.09.26-00.40.04:393][ 63]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 48,204: Ch1 - 9 /ID: 59, Vel: 27
+[2022.09.26-00.40.04:627][ 77]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 48,436: Ch1 - 9 /ID: 59, Vel: 49
+[2022.09.26-00.40.04:960][ 97]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 48,785: Ch1 - 9 /ID: 59, Vel: 35
+[2022.09.26-00.40.05:693][141]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 49,504: Ch1 - 9 /ID: 60, Vel: 17
+[2022.09.26-00.40.06:010][160]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 49,829: Ch1 - 9 /ID: 60, Vel: 45
+[2022.09.26-00.40.23:734][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.40.23:734][161]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.40.23:734][161]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.40.23:735][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.40.23:748][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.40.23:755][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.40.23:797][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.40.23:798][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.26-00.40.23:799][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.26-00.40.23:803][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.40.23:809][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.09.26-00.40.23:829][162]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.09.26-00.41.43:108][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.41.43:113][849]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.26-00.41.43:114][849]LogPlayLevel: [PlayLevel] Compiling midi_keyboard_controller before play...
+[2022.09.26-00.41.43:216][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.09.26-00.41.43:218][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 104 ms (1 blueprints)
+[2022.09.26-00.41.43:218][849]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:41:43 PM)
+[2022.09.26-00.41.43:218][849]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.41.43:223][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004871s)
+[2022.09.26-00.41.43:223][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004933s)
+[2022.09.26-00.41.43:223][849]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.41.43:223][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.41.43:223][849]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.41.43:224][849]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2022.09.26-00.41.43:256][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.09.26-00.41.43:257][849]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.41.43:257][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.41.43:257][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.41.43:257][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.41.43:257][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.41.43:257][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.41.43:259][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.41.43:273][849]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.41.43:273][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.41.43:273][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.41.43:273][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.41.43:274][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.09.26-00.41.43:274][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.09.26-00.41.43:275][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.09.26-00.41.43:275][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.09.26-00.41.43:275][849]LogInit: FAudioDevice initialized.
+[2022.09.26-00.41.43:275][849]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2022.09.26-00.41.43:326][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.41.43:326][849]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.41.43:328][849]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.41.43
+[2022.09.26-00.41.43:329][849]LogWorld: Bringing up level for play took: 0.002541
+[2022.09.26-00.41.43:331][849]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.09.26-00.41.43:332][849]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.41.43:332][849]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.41.43:332][849]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.41.43:332][849]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.41.43:333][849]PIE: Server logged in
+[2022.09.26-00.41.43:333][849]PIE: Play in editor total start time 0.221 seconds.
+[2022.09.26-00.41.43:335][849]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_6
+[2022.09.26-00.41.43:420][849]LogViewport: Scene viewport resized to 1287x750, mode Windowed.
+[2022.09.26-00.41.44:903][926]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,568: Ch1 - 9 /ID: 62, Vel: 8
+[2022.09.26-00.41.44:919][927]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,576: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.41.45:403][956]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,059: Ch1 - 9 /ID: 62, Vel: 8
+[2022.09.26-00.41.45:670][972]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,321: Ch1 - 9 /ID: 62, Vel: 21
+[2022.09.26-00.41.45:753][977]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,407: Ch1 - 11 /ID: 74, Vel: 5
+[2022.09.26-00.41.45:770][978]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,421: Ch1 - 11 /ID: 74, Vel: 6
+[2022.09.26-00.41.45:770][978]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,429: Ch1 - 11 /ID: 74, Vel: 7
+[2022.09.26-00.41.46:924][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.41.46:924][ 45]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.41.46:924][ 45]LogSlate: Window 'miditry Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.26-00.41.46:939][ 45]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.41.46:940][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.41.46:952][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.41.46:957][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.41.47:001][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.26-00.41.47:003][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.26-00.41.47:014][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.09.26-00.41.47:031][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.26-00.42.41:354][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.42.41:359][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.42.41:360][237]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:42:41 PM)
+[2022.09.26-00.42.41:360][237]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.42.41:368][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008038s)
+[2022.09.26-00.42.41:368][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008129s)
+[2022.09.26-00.42.41:368][237]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.42.41:368][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.42.41:368][237]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.42.41:369][237]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.09.26-00.42.41:411][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.09.26-00.42.41:412][237]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.42.41:412][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.42.41:412][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.42.41:413][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.42.41:413][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.42.41:413][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.42.41:415][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.42.41:432][237]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.42.41:432][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.42.41:432][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.42.41:432][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.42.41:434][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.09.26-00.42.41:434][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.09.26-00.42.41:436][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.09.26-00.42.41:436][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.09.26-00.42.41:436][237]LogInit: FAudioDevice initialized.
+[2022.09.26-00.42.41:436][237]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2022.09.26-00.42.41:447][237]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.42.41:449][237]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.42.41
+[2022.09.26-00.42.41:450][237]LogWorld: Bringing up level for play took: 0.002323
+[2022.09.26-00.42.41:451][237]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.09.26-00.42.41:453][237]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.42.41:453][237]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.42.41:453][237]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.42.41:453][237]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.42.41:453][237]PIE: Server logged in
+[2022.09.26-00.42.41:454][237]PIE: Play in editor total start time 0.095 seconds.
+[2022.09.26-00.42.41:455][237]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_7
+[2022.09.26-00.42.41:934][261]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 469: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.42.45:242][452]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,771: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.42.47:763][601]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,870: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.42.48:577][650]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,111: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.42.49:210][688]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,743: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.42.49:660][715]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,205: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.42.49:710][718]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,250: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.42.50:093][741]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,632: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.42.50:493][765]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,028: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.42.50:493][765]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,032: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.42.51:096][801]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,640: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.42.52:764][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.42.52:764][890]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.42.52:764][890]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.42.52:764][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.42.52:777][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.42.52:782][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.42.52:818][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.42.52:819][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.09.26-00.42.52:820][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.09.26-00.42.52:829][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.09.26-00.42.52:848][891]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.26-00.43.34:381][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.43.34:388][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.43.34:388][337]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:43:34 PM)
+[2022.09.26-00.43.34:388][337]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.43.34:395][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007360s)
+[2022.09.26-00.43.34:395][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007451s)
+[2022.09.26-00.43.34:395][337]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.43.34:396][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.43.34:396][337]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.43.34:396][337]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2022.09.26-00.43.34:438][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.09.26-00.43.34:440][337]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.43.34:440][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.43.34:440][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.43.34:440][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.43.34:440][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.43.34:440][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.43.34:442][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.43.34:460][337]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.43.34:460][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.43.34:460][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.43.34:460][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.43.34:462][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.09.26-00.43.34:462][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.09.26-00.43.34:463][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.09.26-00.43.34:463][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.09.26-00.43.34:463][337]LogInit: FAudioDevice initialized.
+[2022.09.26-00.43.34:463][337]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2022.09.26-00.43.34:472][337]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.43.34:474][337]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.43.34
+[2022.09.26-00.43.34:474][337]LogWorld: Bringing up level for play took: 0.002399
+[2022.09.26-00.43.34:476][337]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.09.26-00.43.34:477][337]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.43.34:477][337]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.43.34:477][337]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.43.34:477][337]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.43.34:478][337]PIE: Server logged in
+[2022.09.26-00.43.34:478][337]PIE: Play in editor total start time 0.091 seconds.
+[2022.09.26-00.43.34:480][337]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_8
+[2022.09.26-00.43.34:851][355]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 361: Ch1 - 9 /ID: 60, Vel: 40
+[2022.09.26-00.43.35:250][379]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 765: Ch1 - 9 /ID: 60, Vel: 31
+[2022.09.26-00.43.35:538][396]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,045: Ch1 - 9 /ID: 60, Vel: 28
+[2022.09.26-00.43.37:408][501]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,913: Ch1 - 9 /ID: 60, Vel: 28
+[2022.09.26-00.43.39:634][617]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,138: Ch1 - 9 /ID: 60, Vel: 45
+[2022.09.26-00.43.39:931][633]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,452: Ch1 - 9 /ID: 60, Vel: 34
+[2022.09.26-00.43.40:267][652]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,778: Ch1 - 9 /ID: 60, Vel: 31
+[2022.09.26-00.43.44:181][867]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,691: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.45:581][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 11,085: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.46:048][979]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 11,558: Ch1 - 9 /ID: 60, Vel: 33
+[2022.09.26-00.43.46:481][  5]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 11,995: Ch1 - 9 /ID: 60, Vel: 19
+[2022.09.26-00.43.46:898][ 30]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 12,404: Ch1 - 9 /ID: 60, Vel: 42
+[2022.09.26-00.43.47:315][ 55]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 12,834: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.47:631][ 74]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 13,146: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.47:899][ 90]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 13,404: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.48:631][134]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 14,147: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.50:265][232]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 15,780: Ch1 - 9 /ID: 60, Vel: 25
+[2022.09.26-00.43.50:565][250]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,080: Ch1 - 9 /ID: 60, Vel: 28
+[2022.09.26-00.43.50:865][268]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,371: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.43.51:198][288]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,704: Ch1 - 9 /ID: 60, Vel: 38
+[2022.09.26-00.43.51:432][302]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 16,941: Ch1 - 9 /ID: 60, Vel: 22
+[2022.09.26-00.43.51:648][315]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 17,164: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.45.42:783][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.45.42:783][907]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.45.42:783][907]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.45.42:783][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.45.42:797][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.45.42:802][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.45.42:836][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.45.42:836][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.09.26-00.45.42:838][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.09.26-00.45.42:841][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.45.42:846][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.09.26-00.45.42:868][908]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.26-00.45.43:890][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.45.43:898][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.45.43:898][969]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:45:43 PM)
+[2022.09.26-00.45.43:899][969]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.45.43:906][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007424s)
+[2022.09.26-00.45.43:906][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007530s)
+[2022.09.26-00.45.43:906][969]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.45.43:906][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.45.43:907][969]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.45.43:907][969]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.09.26-00.45.43:945][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.09.26-00.45.43:947][969]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.45.43:947][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.45.43:947][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.45.43:947][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.45.43:947][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.45.43:947][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.45.43:949][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.45.43:970][969]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.45.43:970][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.45.43:970][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.45.43:970][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.45.43:971][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.09.26-00.45.43:972][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.09.26-00.45.43:973][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.09.26-00.45.43:973][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.09.26-00.45.43:973][969]LogInit: FAudioDevice initialized.
+[2022.09.26-00.45.43:973][969]LogAudio: Display: Audio Device (ID: 11) registered with world 'Minimal_Default'.
+[2022.09.26-00.45.43:984][969]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.45.43:986][969]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.45.43
+[2022.09.26-00.45.43:987][969]LogWorld: Bringing up level for play took: 0.002259
+[2022.09.26-00.45.43:989][969]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.09.26-00.45.43:990][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.45.43:990][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.45.43:990][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.45.43:990][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.45.43:990][969]PIE: Server logged in
+[2022.09.26-00.45.43:991][969]PIE: Play in editor total start time 0.093 seconds.
+[2022.09.26-00.45.43:992][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_9
+[2022.09.26-00.45.46:512][107]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,518: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.45.46:828][126]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,834: Ch1 - 9 /ID: 60, Vel: 43
+[2022.09.26-00.45.47:061][140]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,062: Ch1 - 9 /ID: 60, Vel: 45
+[2022.09.26-00.45.47:281][153]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,279: Ch1 - 9 /ID: 60, Vel: 31
+[2022.09.26-00.45.47:532][163]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,521: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.45.49:032][247]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,034: Ch1 - 9 /ID: 60, Vel: 11
+[2022.09.26-00.47.11:652][193]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 87,652: Ch1 - 11 /ID: 73, Vel: 5
+[2022.09.26-00.47.11:702][196]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 87,701: Ch1 - 11 /ID: 73, Vel: 4
+[2022.09.26-00.47.22:974][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.47.22:974][789]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.47.22:975][789]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.47.22:975][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.47.23:023][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.47.23:029][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.47.23:089][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.47.23:089][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.09.26-00.47.23:091][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.09.26-00.47.23:104][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.09.26-00.47.23:128][790]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.26-00.49.19:528][701]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/NewMetaSoundSource
+[2022.09.26-00.49.19:530][701]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/NewMetaSoundSource8C1587B5473D5F72F51401840FE2C7F1.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/NewMetaSoundSource.uasset'
+[2022.09.26-00.49.19:583][701]AssetCheck: New page: Asset Save: NewMetaSoundSource
+[2022.09.26-00.49.19:583][701]LogContentValidation: Display: Validating MetaSoundSource /Game/midikeyboard/blueprints/NewMetaSoundSource.NewMetaSoundSource
+[2022.09.26-00.49.21:666][775]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.49.21:778][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.09.26-00.49.23:226][809]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.49.23:228][809]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controllerBF83E8284BB598650220AEB8D8F75106.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.49.23:269][809]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.49.23:269][809]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.49.26:223][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.49.26:234][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.49.26:234][886]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:49:26 PM)
+[2022.09.26-00.49.26:235][886]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.49.26:248][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013540s)
+[2022.09.26-00.49.26:248][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013692s)
+[2022.09.26-00.49.26:248][886]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.49.26:248][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.49.26:249][886]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.49.26:249][886]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2022.09.26-00.49.26:310][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.09.26-00.49.26:313][886]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.49.26:313][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.49.26:313][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.49.26:314][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.49.26:314][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.49.26:314][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.49.26:316][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.49.26:337][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.49.26:337][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.49.26:337][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.49.26:337][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.49.26:339][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.09.26-00.49.26:339][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.09.26-00.49.26:340][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.09.26-00.49.26:340][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.09.26-00.49.26:340][886]LogInit: FAudioDevice initialized.
+[2022.09.26-00.49.26:340][886]LogAudio: Display: Audio Device (ID: 12) registered with world 'Minimal_Default'.
+[2022.09.26-00.49.26:352][886]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.49.26:355][886]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.49.26
+[2022.09.26-00.49.26:356][886]LogWorld: Bringing up level for play took: 0.003227
+[2022.09.26-00.49.26:358][886]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.09.26-00.49.26:360][886]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.49.26:360][886]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.49.26:360][886]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.49.26:360][886]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.49.26:360][886]PIE: Server logged in
+[2022.09.26-00.49.26:361][886]PIE: Play in editor total start time 0.127 seconds.
+[2022.09.26-00.49.26:363][886]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_10
+[2022.09.26-00.49.26:901][899]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 525: Ch1 - 9 /ID: 57, Vel: 51
+[2022.09.26-00.49.27:468][916]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,087: Ch1 - 9 /ID: 57, Vel: 23
+[2022.09.26-00.49.28:068][934]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,680: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.28:334][942]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,958: Ch1 - 9 /ID: 59, Vel: 40
+[2022.09.26-00.49.29:502][977]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,113: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.30:102][993]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,739: Ch1 - 9 /ID: 59, Vel: 36
+[2022.09.26-00.49.30:570][  0]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 4,155: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.31:501][ 14]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 5,077: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.33:702][ 65]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,292: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.33:972][ 69]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,596: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.34:234][ 73]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,846: Ch1 - 9 /ID: 59, Vel: 10
+[2022.09.26-00.49.53:983][641]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,611: Ch1 - 9 /ID: 59, Vel: 35
+[2022.09.26-00.49.54:316][651]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 27,938: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.54:616][660]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 28,250: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.49.58:930][790]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 32,558: Ch1 - 9 /ID: 59, Vel: 31
+[2022.09.26-00.49.59:231][796]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 32,864: Ch1 - 9 /ID: 59, Vel: 41
+[2022.09.26-00.50.11:380][147]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 44,994: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.50.11:680][156]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 45,303: Ch1 - 9 /ID: 59, Vel: 30
+[2022.09.26-00.50.17:474][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.50.17:474][304]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.50.17:474][304]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.50.17:475][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.50.17:539][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.50.17:545][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.50.17:604][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.50.17:605][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.26-00.50.17:607][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.26-00.50.17:612][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.50.17:620][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.09.26-00.50.17:647][305]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.09.26-00.50.46:512][853]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.50.46:630][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.09.26-00.50.47:761][878]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.50.47:762][878]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controllerC9F2626F458C36BE2B6725B900300A2D.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.50.47:807][878]AssetCheck: New page: Asset Save: midi_keyboard_controller
+[2022.09.26-00.50.47:807][878]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.50.59:093][424]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.50.59:105][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.50.59:105][424]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:50:59 PM)
+[2022.09.26-00.50.59:105][424]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.50.59:121][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015169s)
+[2022.09.26-00.50.59:121][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015317s)
+[2022.09.26-00.50.59:121][424]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.50.59:121][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.50.59:122][424]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.50.59:122][424]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2022.09.26-00.50.59:192][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.09.26-00.50.59:195][424]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.50.59:195][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.50.59:195][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.50.59:196][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.50.59:196][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.50.59:196][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.50.59:199][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.50.59:230][424]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.50.59:231][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.50.59:231][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.50.59:231][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.50.59:232][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.09.26-00.50.59:232][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.09.26-00.50.59:234][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.09.26-00.50.59:234][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.09.26-00.50.59:234][424]LogInit: FAudioDevice initialized.
+[2022.09.26-00.50.59:234][424]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default'.
+[2022.09.26-00.50.59:250][424]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.50.59:254][424]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.50.59
+[2022.09.26-00.50.59:254][424]LogWorld: Bringing up level for play took: 0.003569
+[2022.09.26-00.50.59:257][424]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.09.26-00.50.59:259][424]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.50.59:259][424]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.50.59:259][424]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.50.59:259][424]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.50.59:259][424]PIE: Server logged in
+[2022.09.26-00.50.59:260][424]PIE: Play in editor total start time 0.155 seconds.
+[2022.09.26-00.50.59:262][424]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_11
+[2022.09.26-00.51.00:066][438]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 751: Ch1 - 9 /ID: 57, Vel: 47
+[2022.09.26-00.51.01:167][455]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,845: Ch1 - 9 /ID: 57, Vel: 28
+[2022.09.26-00.51.05:434][571]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,139: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.51.05:734][580]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 6,461: Ch1 - 9 /ID: 57, Vel: 17
+[2022.09.26-00.51.07:201][624]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 7,912: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.51.07:567][635]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 8,295: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.51.16:936][845]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 17,638: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.51.17:336][851]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 18,059: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.51.20:934][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.51.20:934][925]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.51.20:934][925]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.51.20:935][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.51.20:989][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.51.20:995][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.51.21:056][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.51.21:056][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.09.26-00.51.21:058][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.09.26-00.51.21:062][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.51.21:070][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.09.26-00.51.21:094][926]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.09.26-00.51.34:976][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/midikeyboard/blueprints/old.old
+[2022.09.26-00.51.34:977][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.52.00:158][947]LogSlate: Window 'old' being destroyed
+[2022.09.26-00.52.00:208][947]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.52.00:209][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.52.05:784][ 41]LogAssetEditorSubsystem: Opening Asset editor for AudioBus /Game/midikeyboard/blueprints/NewAudioBus.NewAudioBus
+[2022.09.26-00.52.07:619][ 64]LogSlate: Window 'NewAudioBus' being destroyed
+[2022.09.26-00.52.13:673][227]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave NewSoundSourceBus...
+[2022.09.26-00.52.13:673][227]LogAudio: Display: Failed to retrieve compressed data for format BINKA and soundwave /Game/midikeyboard/blueprints/NewSoundSourceBus.NewSoundSourceBus.
+[2022.09.26-00.52.13:673][227]LogAudio: Display: Failed to build BINKA derived data for /Game/midikeyboard/blueprints/NewSoundSourceBus.NewSoundSourceBus
+[2022.09.26-00.52.13:674][227]LogAssetEditorSubsystem: Opening Asset editor for SoundSourceBus /Game/midikeyboard/blueprints/NewSoundSourceBus.NewSoundSourceBus
+[2022.09.26-00.52.20:718][310]LogSlate: Window 'NewSoundSourceBus' being destroyed
+[2022.09.26-00.53.04:676][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/midikeyboard/blueprints/old.old
+[2022.09.26-00.53.04:676][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.53.14:421][423]LogSlate: Window 'old' being destroyed
+[2022.09.26-00.54.16:783][522]BlueprintLog: New page: Compile midi_keyboard_controller
+[2022.09.26-00.54.16:922][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.09.26-00.54.19:873][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.54.19:885][610]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.26-00.54.19:886][610]LogPlayLevel: [PlayLevel] Compiling old before play...
+[2022.09.26-00.54.20:045][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.09.26-00.54.20:046][610]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2022.09.26-00.54.20:047][610]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:54:20 PM)
+[2022.09.26-00.54.20:047][610]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.54.20:055][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008319s)
+[2022.09.26-00.54.20:055][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008401s)
+[2022.09.26-00.54.20:055][610]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.54.20:055][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.54.20:056][610]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.54.20:056][610]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2022.09.26-00.54.20:120][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.09.26-00.54.20:121][610]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.54.20:121][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.54.20:121][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.54.20:122][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.54.20:122][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.54.20:122][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.54.20:124][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.54.20:148][610]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.54.20:148][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.54.20:148][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.54.20:148][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.54.20:150][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.09.26-00.54.20:150][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.09.26-00.54.20:152][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.09.26-00.54.20:152][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.09.26-00.54.20:152][610]LogInit: FAudioDevice initialized.
+[2022.09.26-00.54.20:152][610]LogAudio: Display: Audio Device (ID: 14) registered with world 'Minimal_Default'.
+[2022.09.26-00.54.20:164][610]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.54.20:166][610]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.54.20
+[2022.09.26-00.54.20:167][610]LogWorld: Bringing up level for play took: 0.002898
+[2022.09.26-00.54.20:169][610]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.09.26-00.54.20:171][610]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.54.20:171][610]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.54.20:171][610]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.54.20:171][610]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.54.20:171][610]PIE: Server logged in
+[2022.09.26-00.54.20:172][610]PIE: Play in editor total start time 0.288 seconds.
+[2022.09.26-00.54.20:174][610]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_12
+[2022.09.26-00.54.21:224][626]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,017: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.54.21:624][632]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,443: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.54.22:024][638]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,786: Ch1 - 9 /ID: 60, Vel: 24
+[2022.09.26-00.54.22:959][653]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,739: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.54.24:091][674]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,882: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.54.29:392][796]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,218: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.54.34:054][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.54.34:054][929]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.54.34:054][929]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.54.34:055][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.54.34:113][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.54.34:119][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.54.34:182][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.54.34:183][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.09.26-00.54.34:185][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.09.26-00.54.34:195][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.09.26-00.54.34:222][930]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.09.26-00.55.14:814][626]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource1
+[2022.09.26-00.55.14:823][626]LogContentBrowser: Creating deferred item: NewMetaSoundSource1
+[2022.09.26-00.55.14:836][627]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource1).
+[2022.09.26-00.55.21:644][828]LogContentBrowser: Attempting asset rename: NewMetaSoundSource1 -> temp
+[2022.09.26-00.55.21:650][828]LogContentBrowser: End creating deferred item NewMetaSoundSource1
+[2022.09.26-00.55.27:043][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.09.26-00.55.28:423][931]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.26-00.55.28:540][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.09.26-00.55.28:610][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.09.26-00.55.28:671][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.09.26-00.55.31:014][972]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource1
+[2022.09.26-00.55.31:019][972]LogContentBrowser: Creating deferred item: NewMetaSoundSource1
+[2022.09.26-00.55.31:087][973]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource1).
+[2022.09.26-00.55.35:782][112]LogContentBrowser: Attempting asset rename: NewMetaSoundSource1 -> temp
+[2022.09.26-00.55.35:813][112]LogContentBrowser: End creating deferred item NewMetaSoundSource1
+[2022.09.26-00.55.38:681][160]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/midikeyboard/blueprints/temp.temp
+[2022.09.26-00.55.56:733][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.26-00.55.56:742][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.26-00.55.56:742][951]PIE: New page: PIE session: Minimal_Default (Sep 25, 2022, 4:55:56 PM)
+[2022.09.26-00.55.56:742][951]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.55.56:755][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013095s)
+[2022.09.26-00.55.56:755][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013239s)
+[2022.09.26-00.55.56:756][951]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-00.55.56:756][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-00.55.56:756][951]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.26-00.55.56:757][951]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.09.26-00.55.56:820][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.09.26-00.55.56:822][951]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-00.55.56:822][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-00.55.56:822][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-00.55.56:822][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-00.55.56:822][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-00.55.56:822][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-00.55.56:824][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-00.55.56:845][951]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.09.26-00.55.56:846][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-00.55.56:846][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-00.55.56:846][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-00.55.56:847][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.09.26-00.55.56:847][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.09.26-00.55.56:849][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.09.26-00.55.56:849][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.09.26-00.55.56:849][951]LogInit: FAudioDevice initialized.
+[2022.09.26-00.55.56:849][951]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2022.09.26-00.55.56:859][951]LogLoad: Game class is 'GameModeBase'
+[2022.09.26-00.55.56:861][951]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.09.25-20.55.56
+[2022.09.26-00.55.56:861][951]LogWorld: Bringing up level for play took: 0.002687
+[2022.09.26-00.55.56:864][951]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.09.26-00.55.56:865][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft MIDI Mapper(0)
+[2022.09.26-00.55.56:865][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(1)
+[2022.09.26-00.55.56:865][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] Microsoft GS Wavetable Synth(2)
+[2022.09.26-00.55.56:865][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MPK mini 3(3)
+[2022.09.26-00.55.56:866][951]PIE: Server logged in
+[2022.09.26-00.55.56:867][951]PIE: Play in editor total start time 0.125 seconds.
+[2022.09.26-00.55.56:868][951]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] MIDIDeviceController_13
+[2022.09.26-00.55.57:442][960]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 567: Ch1 - 9 /ID: 57, Vel: 10
+[2022.09.26-00.55.58:041][969]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,132: Ch1 - 9 /ID: 57, Vel: 51
+[2022.09.26-00.55.58:642][978]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,713: Ch1 - 9 /ID: 55, Vel: 8
+[2022.09.26-00.55.58:775][980]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 1,872: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.55.59:242][987]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,345: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.55.59:577][992]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 2,710: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.56.00:009][  1]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,114: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.56.00:541][  9]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 3,668: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.56.06:774][121]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 9,851: Ch1 - 9 /ID: 60, Vel: 8
+[2022.09.26-00.56.06:975][124]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,091: Ch1 - 9 /ID: 57, Vel: 8
+[2022.09.26-00.56.07:041][125]LogBlueprintUserMessages: [midi_keyboard_controller_C_1] 10,109: Ch1 - 9 /ID: 59, Vel: 8
+[2022.09.26-00.56.34:414][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.56.34:414][833]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.09.26-00.56.34:415][833]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.34:415][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.56.34:467][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.26-00.56.34:477][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.56.34:541][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-00.56.34:541][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.09.26-00.56.34:543][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.09.26-00.56.34:548][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-00.56.34:557][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.09.26-00.56.34:616][834]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.09.26-00.56.38:325][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.09.26-00.56.38:353][937]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.26-00.56.38:355][937]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/Minimal_Default01562B734179BB87A701B08BB66745E0.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.26-00.56.38:466][937]LogFileHelpers: No new changes to save!
+[2022.09.26-00.56.38:561][937]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.09.26-00.56.38:561][937]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.26-00.56.40:751][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.09.26-00.56.40:857][983]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/midi_keyboard_controller
+[2022.09.26-00.56.40:859][983]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/midi_keyboard_controller68F3207B47E352F8D40BE19C8C53B281.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/midi_keyboard_controller.uasset'
+[2022.09.26-00.56.40:910][983]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/NewMetaSoundSource
+[2022.09.26-00.56.40:911][983]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/NewMetaSoundSource5D6E765C47F9950E1DBDABBAB62C393A.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/NewMetaSoundSource.uasset'
+[2022.09.26-00.56.40:950][983]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/old
+[2022.09.26-00.56.40:951][983]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/oldFAA2D58445687A05A6E110AD4A645375.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/old.uasset'
+[2022.09.26-00.56.41:157][983]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/temp
+[2022.09.26-00.56.41:157][983]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/temp878035A74AB8459CB1B8688915080E0C.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/temp.uasset'
+[2022.09.26-00.56.41:198][983]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.26-00.56.41:199][983]LogContentValidation: Display: Validating MetaSoundSource /Game/midikeyboard/blueprints/NewMetaSoundSource.NewMetaSoundSource
+[2022.09.26-00.56.41:199][983]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/midi_keyboard_controller.midi_keyboard_controller
+[2022.09.26-00.56.41:199][983]LogContentValidation: Display: Validating MetaSoundSource /Game/midikeyboard/blueprints/temp.temp
+[2022.09.26-00.56.41:199][983]LogContentValidation: Display: Validating Blueprint /Game/midikeyboard/blueprints/old.old
+[2022.09.26-00.56.42:421][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.09.26-00.56.44:564][ 12]LogSlate: Window 'Save Content' being destroyed
+[2022.09.26-00.56.44:748][ 12]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/NewMetaSoundSource
+[2022.09.26-00.56.44:749][ 12]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/NewMetaSoundSource675D4AA2461A71E623F9129ADCE64F39.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/NewMetaSoundSource.uasset'
+[2022.09.26-00.56.44:924][ 12]LogSavePackage: Moving output files for package: /Game/midikeyboard/blueprints/temp
+[2022.09.26-00.56.44:925][ 12]LogSavePackage: Moving '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Saved/temp4253F5DC44B589AEDAE144ADC96DD5A1.tmp' to '../../../../../../Users/85261/OneDrive - HKUST Connect/others/documents/Unreal Projects/miditry 5.0/Content/midikeyboard/blueprints/temp.uasset'
+[2022.09.26-00.56.44:955][ 12]LogStall: Shutdown...
+[2022.09.26-00.56.44:961][ 12]LogStall: Shutdown complete.
+[2022.09.26-00.56.45:052][ 12]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.45:052][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.56.45:262][ 12]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.26-00.56.45:262][ 12]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.45:262][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-00.56.45:394][ 12]LogSlate: Window 'miditry - Unreal Editor' being destroyed
+[2022.09.26-00.56.45:669][ 12]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.26-00.56.45:669][ 12]LogContentValidation: Display: Validating MetaSoundSource /Game/midikeyboard/blueprints/NewMetaSoundSource.NewMetaSoundSource
+[2022.09.26-00.56.45:669][ 12]LogContentValidation: Display: Validating MetaSoundSource /Game/midikeyboard/blueprints/temp.temp
+[2022.09.26-00.56.45:670][ 13]Cmd: QUIT_EDITOR
+[2022.09.26-00.56.45:671][ 13]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.09.26-00.56.45:679][ 13]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.26-00.56.45:680][ 13]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.09.26-00.56.45:681][ 13]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.09.26-00.56.46:593][ 13]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.26-00.56.46:593][ 13]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.26-00.56.46:593][ 13]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.09.26-00.56.46:593][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.26-00.56.46:596][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.26-00.56.46:625][ 13]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.26-00.56.46:626][ 13]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.26-00.56.46:638][ 13]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.09.26-00.56.46:639][ 13]LogExit: Preparing to exit.
+[2022.09.26-00.56.46:766][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.09.26-00.56.46:781][ 13]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:782][ 13]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:787][ 13]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:788][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:788][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:788][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:789][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:789][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:789][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:789][ 13]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.46:789][ 13]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.09.26-00.56.48:039][ 13]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.48:039][ 13]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.48:054][ 13]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-00.56.48:083][ 13]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.26-00.56.48:160][ 13]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.09.26-00.56.48:175][ 13]LogExit: Editor shut down
+[2022.09.26-00.56.48:185][ 13]LogExit: Transaction tracking system shut down
+[2022.09.26-00.56.49:014][ 13]LogExit: Object subsystem successfully closed.
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: ================================================
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.26-00.56.49:028][ 13]LogShaderCompilers: Display: ================================================
+[2022.09.26-00.56.49:061][ 13]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.09.26-00.56.49:213][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (898)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module Voice (896)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module BlueprintGraph (894)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (892)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module SubobjectEditor (890)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module SceneOutliner (888)
+[2022.09.26-00.56.49:214][ 13]LogModuleManager: Shutting down and abandoning module AddContentDialog (886)
+[2022.09.26-00.56.49:216][ 13]LogModuleManager: Shutting down and abandoning module WidgetCarousel (885)
+[2022.09.26-00.56.49:216][ 13]LogModuleManager: Shutting down and abandoning module StatusBar (882)
+[2022.09.26-00.56.49:216][ 13]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (880)
+[2022.09.26-00.56.49:216][ 13]LogModuleManager: Shutting down and abandoning module StatsViewer (878)
+[2022.09.26-00.56.49:217][ 13]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (876)
+[2022.09.26-00.56.49:217][ 13]LogModuleManager: Shutting down and abandoning module AutomationWorker (874)
+[2022.09.26-00.56.49:217][ 13]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (872)
+[2022.09.26-00.56.49:218][ 13]LogModuleManager: Shutting down and abandoning module GooglePADEditor (870)
+[2022.09.26-00.56.49:218][ 13]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (868)
+[2022.09.26-00.56.49:218][ 13]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (866)
+[2022.09.26-00.56.49:218][ 13]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (864)
+[2022.09.26-00.56.49:219][ 13]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (862)
+[2022.09.26-00.56.49:220][ 13]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (860)
+[2022.09.26-00.56.49:222][ 13]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (858)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (856)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (854)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (852)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (850)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module WebMMedia (848)
+[2022.09.26-00.56.49:223][ 13]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (846)
+[2022.09.26-00.56.49:224][ 13]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (844)
+[2022.09.26-00.56.49:225][ 13]LogModuleManager: Shutting down and abandoning module SequenceRecorder (843)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (840)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (838)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (836)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (834)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (832)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (830)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (828)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2022.09.26-00.56.49:226][ 13]LogModuleManager: Shutting down and abandoning module TextureAlignMode (822)
+[2022.09.26-00.56.49:227][ 13]LogModuleManager: Shutting down and abandoning module BspMode (820)
+[2022.09.26-00.56.49:227][ 13]LogModuleManager: Shutting down and abandoning module GeometryMode (818)
+[2022.09.26-00.56.49:227][ 13]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (816)
+[2022.09.26-00.56.49:228][ 13]LogModuleManager: Shutting down and abandoning module IKRigEditor (814)
+[2022.09.26-00.56.49:229][ 13]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (812)
+[2022.09.26-00.56.49:229][ 13]LogModuleManager: Shutting down and abandoning module ControlRigEditor (810)
+[2022.09.26-00.56.49:230][ 13]LogModuleManager: Shutting down and abandoning module AnimationEditor (809)
+[2022.09.26-00.56.49:231][ 13]LogModuleManager: Shutting down and abandoning module SmartSnapping (806)
+[2022.09.26-00.56.49:231][ 13]LogModuleManager: Shutting down and abandoning module SessionServices (804)
+[2022.09.26-00.56.49:231][ 13]LogModuleManager: Shutting down and abandoning module MeshPaint (802)
+[2022.09.26-00.56.49:232][ 13]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (800)
+[2022.09.26-00.56.49:232][ 13]LogModuleManager: Shutting down and abandoning module PlacementMode (799)
+[2022.09.26-00.56.49:233][ 13]LogModuleManager: Shutting down and abandoning module FoliageEdit (796)
+[2022.09.26-00.56.49:233][ 13]LogModuleManager: Shutting down and abandoning module LandscapeEditor (794)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (792)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module ActorPickerMode (790)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module ViewportSnapping (788)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module ViewportInteraction (784)
+[2022.09.26-00.56.49:235][ 13]LogModuleManager: Shutting down and abandoning module ClothPainter (782)
+[2022.09.26-00.56.49:236][ 13]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (781)
+[2022.09.26-00.56.49:237][ 13]LogModuleManager: Shutting down and abandoning module LogVisualizer (778)
+[2022.09.26-00.56.49:239][ 13]LogModuleManager: Shutting down and abandoning module IntroTutorials (776)
+[2022.09.26-00.56.49:240][ 13]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (774)
+[2022.09.26-00.56.49:240][ 13]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (772)
+[2022.09.26-00.56.49:240][ 13]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (771)
+[2022.09.26-00.56.49:241][ 13]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (769)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (766)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (764)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (762)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (760)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module CSVtoSVG (758)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (756)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module EditorConfig (754)
+[2022.09.26-00.56.49:444][ 13]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (752)
+[2022.09.26-00.56.49:445][ 13]LogModuleManager: Shutting down and abandoning module EditorFramework (750)
+[2022.09.26-00.56.49:445][ 13]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (748)
+[2022.09.26-00.56.49:447][ 13]LogModuleManager: Shutting down and abandoning module TraceInsights (746)
+[2022.09.26-00.56.49:452][ 13]MemoryProfiler: Shutdown
+[2022.09.26-00.56.49:454][ 13]NetworkingProfiler: Shutdown
+[2022.09.26-00.56.49:454][ 13]LoadingProfiler: Shutdown
+[2022.09.26-00.56.49:455][ 13]TimingProfiler: Shutdown
+[2022.09.26-00.56.49:458][ 13]LogModuleManager: Shutting down and abandoning module TraceServices (745)
+[2022.09.26-00.56.49:460][ 13]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (742)
+[2022.09.26-00.56.49:460][ 13]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (741)
+[2022.09.26-00.56.49:460][ 13]LogModuleManager: Shutting down and abandoning module InputBindingEditor (738)
+[2022.09.26-00.56.49:461][ 13]LogModuleManager: Shutting down and abandoning module MergeActors (736)
+[2022.09.26-00.56.49:462][ 13]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (734)
+[2022.09.26-00.56.49:462][ 13]LogModuleManager: Shutting down and abandoning module LocalizationService (733)
+[2022.09.26-00.56.49:462][ 13]LogModuleManager: Shutting down and abandoning module HardwareTargeting (730)
+[2022.09.26-00.56.49:462][ 13]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (728)
+[2022.09.26-00.56.49:463][ 13]LogModuleManager: Shutting down and abandoning module UndoHistory (726)
+[2022.09.26-00.56.49:463][ 13]LogModuleManager: Shutting down and abandoning module XmlParser (724)
+[2022.09.26-00.56.49:463][ 13]LogModuleManager: Shutting down and abandoning module Blutility (722)
+[2022.09.26-00.56.49:463][ 13]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (720)
+[2022.09.26-00.56.49:463][ 13]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (719)
+[2022.09.26-00.56.49:464][ 13]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (716)
+[2022.09.26-00.56.49:464][ 13]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (715)
+[2022.09.26-00.56.49:464][ 13]LogModuleManager: Shutting down and abandoning module SettingsEditor (712)
+[2022.09.26-00.56.49:464][ 13]LogModuleManager: Shutting down and abandoning module ProjectLauncher (710)
+[2022.09.26-00.56.49:464][ 13]LogModuleManager: Shutting down and abandoning module SessionFrontend (708)
+[2022.09.26-00.56.49:465][ 13]LogModuleManager: Shutting down and abandoning module ProfilerClient (706)
+[2022.09.26-00.56.49:465][ 13]LogModuleManager: Shutting down and abandoning module DeviceManager (704)
+[2022.09.26-00.56.49:466][ 13]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (703)
+[2022.09.26-00.56.49:477][ 13]LogModuleManager: Shutting down and abandoning module AutomationController (700)
+[2022.09.26-00.56.49:477][ 13]LogModuleManager: Shutting down and abandoning module AutomationWindow (698)
+[2022.09.26-00.56.49:478][ 13]LogModuleManager: Shutting down and abandoning module Layers (696)
+[2022.09.26-00.56.49:479][ 13]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (694)
+[2022.09.26-00.56.49:479][ 13]LogModuleManager: Shutting down and abandoning module DetailCustomizations (692)
+[2022.09.26-00.56.49:479][ 13]LogModuleManager: Shutting down and abandoning module PackagesDialog (690)
+[2022.09.26-00.56.49:480][ 13]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (688)
+[2022.09.26-00.56.49:481][ 13]LogModuleManager: Shutting down and abandoning module Persona (686)
+[2022.09.26-00.56.49:482][ 13]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (685)
+[2022.09.26-00.56.49:482][ 13]LogModuleManager: Shutting down and abandoning module AnimGraph (683)
+[2022.09.26-00.56.49:482][ 13]LogModuleManager: Shutting down and abandoning module Kismet (680)
+[2022.09.26-00.56.49:493][ 13]LogModuleManager: Shutting down and abandoning module KismetWidgets (679)
+[2022.09.26-00.56.49:493][ 13]LogModuleManager: Shutting down and abandoning module GraphEditor (676)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module StructViewer (674)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module ClassViewer (672)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module NaniteTools (670)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (668)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module SourceControlWindows (666)
+[2022.09.26-00.56.49:494][ 13]LogModuleManager: Shutting down and abandoning module OutputLog (664)
+[2022.09.26-00.56.49:495][ 13]LogModuleManager: Shutting down and abandoning module Documentation (662)
+[2022.09.26-00.56.49:495][ 13]LogModuleManager: Shutting down and abandoning module LiveCoding (660)
+[2022.09.26-00.56.49:508][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (658)
+[2022.09.26-00.56.49:508][ 13]LogModuleManager: Shutting down and abandoning module MovieScene (656)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (654)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module LauncherPlatform (652)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AnalyticsET (650)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module PortalServices (648)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module PortalRpc (646)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module MessagingRpc (644)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (642)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AudioMixer (641)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AudioMixerCore (640)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AIModule (636)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module GameplayDebugger (635)
+[2022.09.26-00.56.49:509][ 13]LogModuleManager: Shutting down and abandoning module AITestSuite (633)
+[2022.09.26-00.56.49:510][ 13]LogModuleManager: Shutting down and abandoning module NavigationSystem (631)
+[2022.09.26-00.56.49:510][ 13]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (628)
+[2022.09.26-00.56.49:511][ 13]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (626)
+[2022.09.26-00.56.49:511][ 13]LogModuleManager: Shutting down and abandoning module TypedElementFramework (624)
+[2022.09.26-00.56.49:511][ 13]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (622)
+[2022.09.26-00.56.49:511][ 13]LogModuleManager: Shutting down and abandoning module ProfilerService (620)
+[2022.09.26-00.56.49:704][ 13]LogModuleManager: Shutting down and abandoning module TaskGraph (618)
+[2022.09.26-00.56.49:706][ 13]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (616)
+[2022.09.26-00.56.49:706][ 13]LogModuleManager: Shutting down and abandoning module MegascansPlugin (614)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module Bridge (612)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module RemoteDatabaseSupport (610)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module DatabaseSupport (608)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (606)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (604)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangePipelines (602)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeExport (600)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeMessages (598)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeImport (596)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeNodes (594)
+[2022.09.26-00.56.49:707][ 13]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (592)
+[2022.09.26-00.56.49:708][ 13]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (590)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module InterchangeEditor (588)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (586)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (584)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (582)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module CollectionManager (581)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module SynthesisEditor (578)
+[2022.09.26-00.56.49:709][ 13]LogModuleManager: Shutting down and abandoning module Synthesis (576)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module ResonanceAudio (574)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (572)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (570)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (568)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module MIDIDevice (566)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (564)
+[2022.09.26-00.56.49:710][ 13]LogModuleManager: Shutting down and abandoning module ModelingOperators (562)
+[2022.09.26-00.56.49:711][ 13]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (560)
+[2022.09.26-00.56.49:711][ 13]LogModuleManager: Shutting down and abandoning module ModelingComponents (558)
+[2022.09.26-00.56.49:711][ 13]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (556)
+[2022.09.26-00.56.49:711][ 13]LogModuleManager: Shutting down and abandoning module MeshModelingTools (554)
+[2022.09.26-00.56.49:711][ 13]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (552)
+[2022.09.26-00.56.49:712][ 13]LogModuleManager: Shutting down and abandoning module GooglePAD (550)
+[2022.09.26-00.56.49:712][ 13]LogModuleManager: Shutting down and abandoning module DynamicMesh (548)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (546)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (544)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (542)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (540)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (538)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module CableComponent (536)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module AudioCapture (534)
+[2022.09.26-00.56.49:713][ 13]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (533)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module AssetTags (530)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (528)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (526)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module AppleImageUtils (524)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module AndroidPermission (522)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (520)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (518)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (514)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module SequencerScripting (512)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2022.09.26-00.56.49:714][ 13]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2022.09.26-00.56.49:715][ 13]LogModuleManager: Shutting down and abandoning module ImgMedia (506)
+[2022.09.26-00.56.49:715][ 13]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (504)
+[2022.09.26-00.56.49:715][ 13]LogOpenImageDenoise: OIDN shutting down
+[2022.09.26-00.56.49:715][ 13]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (502)
+[2022.09.26-00.56.49:715][ 13]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (500)
+[2022.09.26-00.56.49:716][ 13]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (498)
+[2022.09.26-00.56.49:716][ 13]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (496)
+[2022.09.26-00.56.49:716][ 13]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (494)
+[2022.09.26-00.56.49:716][ 13]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (493)
+[2022.09.26-00.56.49:716][ 13]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (490)
+[2022.09.26-00.56.49:717][ 13]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2022.09.26-00.56.49:717][ 13]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2022.09.26-00.56.49:717][ 13]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2022.09.26-00.56.49:717][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2022.09.26-00.56.49:717][ 13]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2022.09.26-00.56.49:718][ 13]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (478)
+[2022.09.26-00.56.49:718][ 13]LogModuleManager: Shutting down and abandoning module ChaosNiagara (476)
+[2022.09.26-00.56.49:719][ 13]LogModuleManager: Shutting down and abandoning module FractureEditor (474)
+[2022.09.26-00.56.49:720][ 13]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (472)
+[2022.09.26-00.56.49:721][ 13]LogModuleManager: Shutting down and abandoning module BackChannel (470)
+[2022.09.26-00.56.49:721][ 13]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (468)
+[2022.09.26-00.56.49:721][ 13]LogModuleManager: Shutting down and abandoning module AutomationUtils (466)
+[2022.09.26-00.56.49:721][ 13]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2022.09.26-00.56.49:722][ 13]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2022.09.26-00.56.49:722][ 13]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (460)
+[2022.09.26-00.56.49:722][ 13]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2022.09.26-00.56.49:722][ 13]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (456)
+[2022.09.26-00.56.49:723][ 13]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.09.26-00.56.49:723][ 13]LogModuleManager: Shutting down and abandoning module PluginBrowser (452)
+[2022.09.26-00.56.49:724][ 13]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (450)
+[2022.09.26-00.56.49:725][ 13]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (448)
+[2022.09.26-00.56.49:725][ 13]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (446)
+[2022.09.26-00.56.49:725][ 13]LogModuleManager: Shutting down and abandoning module EditorDebugTools (444)
+[2022.09.26-00.56.49:726][ 13]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (436)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (434)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (432)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (430)
+[2022.09.26-00.56.49:727][ 13]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (428)
+[2022.09.26-00.56.49:728][ 13]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (426)
+[2022.09.26-00.56.49:728][ 13]LogModuleManager: Shutting down and abandoning module PluginUtils (424)
+[2022.09.26-00.56.49:728][ 13]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (422)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module GitSourceControl (420)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (418)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (416)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module ControlRigSpline (414)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (412)
+[2022.09.26-00.56.49:729][ 13]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (410)
+[2022.09.26-00.56.49:730][ 13]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (408)
+[2022.09.26-00.56.49:730][ 13]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (406)
+[2022.09.26-00.56.49:730][ 13]LogModuleManager: Shutting down and abandoning module Paper2DEditor (404)
+[2022.09.26-00.56.49:731][ 13]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (402)
+[2022.09.26-00.56.49:731][ 13]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (400)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module SoundFields (398)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module SignificanceManager (396)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (394)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (392)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module MetasoundEditor (390)
+[2022.09.26-00.56.49:732][ 13]LogModuleManager: Shutting down and abandoning module AudioWidgets (389)
+[2022.09.26-00.56.49:733][ 13]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (388)
+[2022.09.26-00.56.49:733][ 13]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (384)
+[2022.09.26-00.56.49:733][ 13]LogModuleManager: Shutting down and abandoning module MetasoundEngine (382)
+[2022.09.26-00.56.49:733][ 13]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (381)
+[2022.09.26-00.56.49:733][ 13]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (378)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (376)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (374)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (372)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2022.09.26-00.56.49:734][ 13]LogModuleManager: Shutting down and abandoning module UdpMessaging (360)
+[2022.09.26-00.56.49:835][ 13]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2022.09.26-00.56.49:936][ 13]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (356)
+[2022.09.26-00.56.49:936][ 13]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2022.09.26-00.56.49:936][ 13]LogModuleManager: Shutting down and abandoning module PBIK (352)
+[2022.09.26-00.56.49:937][ 13]LogModuleManager: Shutting down and abandoning module FullBodyIK (350)
+[2022.09.26-00.56.49:937][ 13]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (348)
+[2022.09.26-00.56.49:937][ 13]LogModuleManager: Shutting down and abandoning module Niagara (346)
+[2022.09.26-00.56.49:938][ 13]LogModuleManager: Shutting down and abandoning module SignalProcessing (345)
+[2022.09.26-00.56.49:938][ 13]LogModuleManager: Shutting down and abandoning module NiagaraEditor (343)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module NiagaraCore (340)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (338)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module GameplayCameras (330)
+[2022.09.26-00.56.49:940][ 13]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (328)
+[2022.09.26-00.56.49:941][ 13]LogModuleManager: Shutting down and abandoning module LevelEditor (327)
+[2022.09.26-00.56.49:947][ 13]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (326)
+[2022.09.26-00.56.49:948][ 13]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (324)
+[2022.09.26-00.56.49:948][ 13]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (322)
+[2022.09.26-00.56.49:949][ 13]LogModuleManager: Shutting down and abandoning module MainFrame (320)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module HotReload (319)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowser (315)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module ToolMenus (314)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowserData (312)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module TreeMap (309)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module AnimationSharing (306)
+[2022.09.26-00.56.49:950][ 13]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (304)
+[2022.09.26-00.56.49:952][ 13]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2022.09.26-00.56.49:952][ 13]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2022.09.26-00.56.49:952][ 13]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2022.09.26-00.56.49:952][ 13]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2022.09.26-00.56.49:952][ 13]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2022.09.26-00.56.49:953][ 13]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2022.09.26-00.56.49:953][ 13]LogModuleManager: Shutting down and abandoning module Paper2D (290)
+[2022.09.26-00.56.49:953][ 13]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2022.09.26-00.56.49:955][ 13]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.09.26-00.56.49:956][ 13]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.09.26-00.56.49:957][ 13]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.09.26-00.56.49:957][ 13]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.09.26-00.56.49:957][ 13]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.09.26-00.56.49:959][ 13]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.09.26-00.56.49:959][ 13]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.09.26-00.56.49:960][ 13]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.09.26-00.56.49:960][ 13]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.09.26-00.56.49:960][ 13]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.09.26-00.56.49:961][ 13]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.09.26-00.56.49:965][ 13]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.09.26-00.56.49:965][ 13]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.09.26-00.56.49:966][ 13]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.09.26-00.56.49:968][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.09.26-00.56.49:970][ 13]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.09.26-00.56.49:971][ 13]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.09.26-00.56.49:972][ 13]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.09.26-00.56.49:972][ 13]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.09.26-00.56.49:972][ 13]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.09.26-00.56.49:972][ 13]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.09.26-00.56.49:973][ 13]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.09.26-00.56.49:973][ 13]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.09.26-00.56.49:974][ 13]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.09.26-00.56.49:974][ 13]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.09.26-00.56.49:974][ 13]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.09.26-00.56.49:975][ 13]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.09.26-00.56.49:976][ 13]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.09.26-00.56.49:976][ 13]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.09.26-00.56.49:977][ 13]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.09.26-00.56.49:977][ 13]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.09.26-00.56.49:988][ 13]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.09.26-00.56.49:988][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.09.26-00.56.49:989][ 13]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.09.26-00.56.49:989][ 13]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.09.26-00.56.49:990][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.09.26-00.56.49:990][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.09.26-00.56.49:991][ 13]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.09.26-00.56.49:992][ 13]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.09.26-00.56.49:992][ 13]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.09.26-00.56.49:992][ 13]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.09.26-00.56.49:992][ 13]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.09.26-00.56.49:992][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.09.26-00.56.49:993][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.09.26-00.56.49:993][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.09.26-00.56.49:994][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.09.26-00.56.49:995][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.09.26-00.56.49:996][ 13]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.09.26-00.56.49:997][ 13]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.09.26-00.56.49:997][ 13]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.09.26-00.56.49:997][ 13]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.09.26-00.56.49:997][ 13]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.09.26-00.56.49:997][ 13]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.09.26-00.56.49:998][ 13]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.09.26-00.56.49:998][ 13]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.09.26-00.56.49:998][ 13]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2022.09.26-00.56.49:998][ 13]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.09.26-00.56.49:999][ 13]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.09.26-00.56.49:999][ 13]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.09.26-00.56.49:999][ 13]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.09.26-00.56.50:000][ 13]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.09.26-00.56.50:000][ 13]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.09.26-00.56.50:000][ 13]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2022.09.26-00.56.50:000][ 13]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2022.09.26-00.56.50:000][ 13]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2022.09.26-00.56.50:002][ 13]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2022.09.26-00.56.50:003][ 13]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2022.09.26-00.56.50:030][ 13]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2022.09.26-00.56.50:030][ 13]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.09.26-00.56.50:030][ 13]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B27CD0777-4AEE-8662-F47C-28A3C9F5534C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a49bad5b40d3c533ba9f03a2dcb5ae76%7C926dfd3a2f5544a1a7390017642eaa1e%7C45e0f68e-925e-4ce6-8911-1ce878fc9c4b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.09.26-00.56.50:030][ 13]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.09.26-00.56.50:055][ 13]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2022.09.26-00.56.50:059][ 13]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.09.26-00.56.50:059][ 13]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.09.26-00.56.50:064][ 13]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.09.26-00.56.50:065][ 13]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.09.26-00.56.50:066][ 13]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.09.26-00.56.50:066][ 13]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.09.26-00.56.50:066][ 13]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.09.26-00.56.50:066][ 13]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.09.26-00.56.50:066][ 13]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.09.26-00.56.50:067][ 13]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.09.26-00.56.50:067][ 13]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.09.26-00.56.50:067][ 13]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.09.26-00.56.50:069][ 13]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.09.26-00.56.50:069][ 13]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.09.26-00.56.50:069][ 13]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.09.26-00.56.50:070][ 13]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.09.26-00.56.50:070][ 13]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.09.26-00.56.50:072][ 13]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.09.26-00.56.50:072][ 13]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.09.26-00.56.50:073][ 13]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.09.26-00.56.50:074][ 13]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.09.26-00.56.50:074][ 13]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.09.26-00.56.50:076][ 13]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.09.26-00.56.50:076][ 13]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.09.26-00.56.50:076][ 13]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.09.26-00.56.50:076][ 13]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.09.26-00.56.50:077][ 13]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.09.26-00.56.50:077][ 13]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.09.26-00.56.50:077][ 13]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.09.26-00.56.50:080][ 13]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.09.26-00.56.50:080][ 13]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.09.26-00.56.50:081][ 13]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.09.26-00.56.50:081][ 13]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.09.26-00.56.50:081][ 13]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.09.26-00.56.50:081][ 13]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.09.26-00.56.50:082][ 13]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.09.26-00.56.50:082][ 13]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.09.26-00.56.50:082][ 13]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.09.26-00.56.50:082][ 13]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.09.26-00.56.50:106][ 13]LogD3D11RHI: Shutdown
+[2022.09.26-00.56.50:106][ 13]LogD3D11RHI: CleanupD3DDevice
+[2022.09.26-00.56.50:125][ 13]LogExit: Exiting.
+[2022.09.26-00.56.50:138][ 13]Log file closed, 09/25/22 20:56:50
